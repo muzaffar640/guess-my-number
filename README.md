@@ -5,7 +5,9 @@ A simple number guessing game implemented in JavaScript that runs in a web brows
 ## Getting Started
 
 To play the game, simply open the index.html file in a web browser. The game will be displayed in the browser window, and you can start playing immediately.
+
 To play on your local machine `git clone git@github.com:muzaffar640/guess-my-number.git`
+
 To play live you can check [Guess my Number](https://muzaffar640.github.io/guess-my-number/)
 
 ## Prerequisites
